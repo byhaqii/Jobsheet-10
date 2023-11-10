@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Cinema19 {
     public static void main(String[] args) {
+        
         String [][] audience = new String[4][2];
         audience[0][0] = "Amin";
         audience[0][1] = "Bena";
